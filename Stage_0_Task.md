@@ -4,9 +4,7 @@
 
 **Author:** Mahima Chakraborty (@mahima\_ch)
 
-**GitHub repo:** 
-
-**What is Artificial Intelligence and Machine Learning?** 
+**GitHub repo [Link](https://github.com/mahiiC/HackBio_Internship_2024/blob/main/Stage_0_Task.md)**
 
 Artificial Intelligence (AI) is a broad field concerned with the capability of machines to perform activities using human-like intelligence. Machine learning is an application of AI that allows computers to automatically learn and improve from experience without being explicitly programmed to do so. It is a combination of many traditional disciplines including Statistics, Applied Math, and Computer Science, and enables computers to solve problems using examples of real-world data. Using Machine Learning, computers can learn how to discover patterns and make predictions from data provided to them.
 
@@ -37,4 +35,6 @@ ML techniques can be used for the early detection of breast cancer signs in mamm
 4. Yeom, Y.K., Chae, E.Y., Kim, H.H. et al. Screening mammography for second breast cancers in women with history of early-stage breast cancer: factors and causes associated with non-detection. BMC Med Imaging 19, 2 (2019). <https://doi.org/10.1186/s12880-018-0303-3> 
 
 5. Coursera Supervised Machine Learning course by Andrew Ng (University of Michigan)
+
+**Sample project GitHub repo [link](https://github.com/mahiiC/Breast_cancer_prediction)**
 
