@@ -8,7 +8,7 @@
 
 Artificial Intelligence (AI) is a broad field concerned with the capability of machines to perform activities using human-like intelligence. Machine learning is an application of AI that allows computers to automatically learn and improve from experience without being explicitly programmed to do so. It is a combination of many traditional disciplines including Statistics, Applied Math, and Computer Science, and enables computers to solve problems using examples of real-world data. Using Machine Learning, computers can learn how to discover patterns and make predictions from data provided to them.
 
-Supervised learning is a subtype of ML in which ****every training sample from the dataset has a corresponding label or output value associated with it. As a result, the algorithm learns to predict labels or output values, i.e. machines learn from the “right answers”. The other subtypes include unsupervised and reinforcement learning techniques.
+Supervised learning is a subtype of ML in which every training sample from the dataset has a corresponding label or output value associated with it. As a result, the algorithm learns to predict labels or output values, i.e. machines learn from the “right answers”. The other subtypes include unsupervised and reinforcement learning techniques.
 
 **Supervised Learning in Breast Cancer research**
 
