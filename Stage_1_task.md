@@ -26,8 +26,7 @@ A 14-gene signature was created by selecting the top two DE genes from the seven
 
 This research offers a comprehensive gene expression analysis of 4043 cancer samples and 548 normal tissue samples across 12 cancer types, revealing crucial gene signatures common to multiple cancers and specific to individual cancer types. The results highlight the central importance of cell cycle control in cancer development and provide valuable knowledge about the molecular pathways involved in tumor formation. By identifying potential biomarkers for diagnosis and targets for therapy, the study demonstrates the significance of large-scale RNA sequencing data in enhancing cancer research and potentially improving patient outcomes.
 
-**References**
+**Reference**
 
-- Peng, L., Bian, X. W., Li, D. K., Xu, C., Wang, G. M., Xia, Q. Y., & Xiong, Q. (2015). Large-scale RNA-Seq Transcriptome Analysis of 4043 Cancers and 548 Normal Tissue Controls across 12 TCGA Cancer Types. Scientific Reports, 5(1), 1-18. <https://doi.org/10.1038/srep13413> 
+Peng, L., Bian, X. W., Li, D. K., Xu, C., Wang, G. M., Xia, Q. Y., & Xiong, Q. (2015). Large-scale RNA-Seq Transcriptome Analysis of 4043 Cancers and 548 Normal Tissue Controls across 12 TCGA Cancer Types. Scientific Reports, 5(1), 1-18. <https://doi.org/10.1038/srep13413> 
 
-- Joachims, Thorsten. (1999). SVMLight: Support Vector Machine. 
