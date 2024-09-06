@@ -6,7 +6,7 @@
 
 **Authors:** Mahima Chakraborty (@mahima\_ch), Tamosree Das (@Tamosree), Obianujunwa Martha Ugota (@obianujunwa), Faheem Ahmed Khan (@Faheem.Za) 
 
-**GitHub Link:**
+**GitHub Link:** <https://github.com/mahiiC/HackBio_Internship_2024/blob/main/Stage_1_task.md>
 
 **Introduction** 
 
