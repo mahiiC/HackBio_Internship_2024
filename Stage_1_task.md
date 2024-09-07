@@ -10,7 +10,7 @@
 
 **Introduction** 
 
-Changes in gene expression patterns caused by build-up of mutations or epigenetic alterations are regarded to be the primary source of cancer. In comparison to microarrays, RNA-Seq is a novel method that provides genome-wide gene expression profiling and has numerous benefits, including a superior ability to define the transcriptome alterations linked to human malignancies. With the help of records from the TCGA data portal, this study compared and analyzed the RNA-Seq transcriptomes of 4043 cancer and 548 solid tissue normal samples across 12 types of cancer using the edgeR Bioconductor package, differential expression analysis of individual genes, clustering and gene set association analysis, pathway enrichment analysis and disease association analysis to enable a biological understanding of the genes (Peng, L. _et al. 2015_).
+Changes in gene expression patterns caused by build-up of mutations or epigenetic alterations are regarded to be the primary source of cancer. In comparison to microarrays, RNA-Seq is a novel method that provides genome-wide gene expression profiling and has numerous benefits, including a superior ability to define the transcriptome alterations linked to human malignancies. With the help of records from the TCGA data portal, this study compared and analyzed the RNA-Seq transcriptomes of 4043 cancer and 548 solid tissue normal samples across 12 types of cancer using the edgeR Bioconductor package, differential expression analysis of individual genes, clustering and gene set association analysis, pathway enrichment analysis and disease association analysis to enable a biological understanding of the genes and how they play a role in cancer development.
 
 **Methods** 
 
