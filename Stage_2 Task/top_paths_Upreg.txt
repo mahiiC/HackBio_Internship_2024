@@ -1,4 +1,0 @@
-"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
-0.0485184176666892,4,1964,6.6572592377073,"GO:0006508 proteolysis "," http://amigo.geneontology.org/amigo/term/GO:0006508"," TPSD1  TPSAB1  TPSB2  TMPRSS3"
-0.0485184176666892,1,4,817.178571428571,"GO:1901685 glutathione derivative metabolic proc. "," http://amigo.geneontology.org/amigo/term/GO:1901685"," GSTA1"
-0.0485184176666892,1,4,817.178571428571,"GO:1901687 glutathione derivative biosynthetic proc. "," http://amigo.geneontology.org/amigo/term/GO:1901687"," GSTA1"
