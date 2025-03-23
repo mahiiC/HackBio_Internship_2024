@@ -7,9 +7,9 @@ This repository contains my work and progress during the HackBio Internship 2024
 The HackBio Internship 2024 is a remote, project-based internship program designed to equip participants with practical skills in bioinformatics and computational biology. Participants engage in collaborative projects, learn from experienced mentors, and gain exposure to real-world bioinformatics applications. The program covers a wide range of topics, including:
 
 * **Programming for Bioinformatics:** Python, R, and Command-line tools.
-* **Biological Databases:** NCBI, Ensembl, UniProt, and others.
-* **Sequence Analysis:** BLAST, sequence alignment, and phylogenetic analysis.
-* **Genomics and Transcriptomics:** Data analysis and interpretation.
+* **Biological Databases:** NCBI, Ensembl, UniProt, TCGA, ShinyGO, etc.
+* **Sequence Analysis:** BLAST, sequence alignment, and phylogenetic analysis
+* **Genomics and Transcriptomics:** RNASeq Data analysis and interpretation.
 * **Data Visualization:** Creating meaningful visualizations of biological data (Volcano plots, Heatmaps)
 * **Project Collaboration:** Working in teams on bioinformatics projects.
 
@@ -28,7 +28,7 @@ This repository is organized into different weeks/stages, each containing markdo
     * [Stage_4 Task/](https://github.com/mahiiC/HackBio_Internship_2024/tree/main/Stage_4%20Task): Contains the task and reflection for week 4. This week centered around RNASeq data analysis using Unsupervised learning methods.
 
 
-## Usage
+## How to use this repository
 
 You can browse the markdown files in each week's directory to understand the specific tasks and learning outcomes. Each markdown file provides a detailed description of the tasks, the methods used, and the results obtained.
 
