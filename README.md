@@ -26,8 +26,7 @@ This repository is organized into different weeks/stages, each containing markdo
     * [Stage_3 Task/](https://github.com/mahiiC/HackBio_Internship_2024/tree/main/Stage_3%20Task): Contains the task and reflection for week 3. This week was focused on working with RNA-Seq data of Colon Adenocarcinoma from TCGA followed by DIfferential Gene expression analysis and Functional enrichment analysis. We also learnt how to perform these tasks using Machine learning.
 * **Week 4: Unsupervised learning**
     * [Stage_4 Task/](https://github.com/mahiiC/HackBio_Internship_2024/tree/main/Stage_4%20Task): Contains the task and reflection for week 4. This week centered around RNASeq data analysis using Unsupervised learning methods.
-* **Week 5: Final Project**
-    * [Final Project/](Week_5_Task.md): Contains the task and reflection for week 5. This week was focused on the final project for the internship.
+
 
 ## Usage
 
